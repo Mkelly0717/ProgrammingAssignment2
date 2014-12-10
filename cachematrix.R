@@ -1,8 +1,9 @@
 #####################################################
-## Author: Michael A. Kelly Ph.D
-## Class: Coursera R Programming
-## Homework Assignment 2
-## Create Date: december 9, 2014
+## Author: Michael A. Kelly Ph.D.
+## Class: Coursera R Programming.
+## Homework Assignment 2.
+## Create Date: December 9, 2014.
+## Changes:                     
 #####################################################
 ## This is a function takes a matrix as an argument. 
 ##   The argument should be like matrix(c(1,2,3,4),2,2).
